@@ -141,6 +141,12 @@ a{
 
 @media(width>286px ){
 
+
+    a{
+        font-family:inconsolata ;
+        font-size:14px ;
+    }
+
 .area{
       font-family: inconsolata;
       color:#2a0147;
