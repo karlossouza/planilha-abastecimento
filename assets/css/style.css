@@ -16,12 +16,12 @@ a{
 
 @media(width<=286px ){
   a{
-      font-size: 14px;
+      font-size: 12px;
       display: inline;
   }
 
   #logo{
-      width:40px;
+      width:25px;
   }
 
   .area{
