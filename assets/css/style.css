@@ -20,8 +20,12 @@ a{
       display: inline;
   }
 
+  .menu{
+    width:100%;
+  }
+
   #logo{
-      width:16px;
+      width:15px;
   }
 
   .area{
