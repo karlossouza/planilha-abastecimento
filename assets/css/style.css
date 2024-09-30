@@ -16,7 +16,7 @@ a{
 
 @media(width<=286px ){
   a{
-      font: size 14px;
+      font-size: 14px;
       display: inline;
   }
 
@@ -138,7 +138,7 @@ a{
 
 
 
-
+/* tela grande */
 @media(width>286px ){
 
 
