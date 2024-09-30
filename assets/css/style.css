@@ -14,7 +14,7 @@ a{
 
 }
 
-@media(width>=286px){
+@media(width<=286px ){
   a{
       font: size 14px;
       display: inline;
@@ -51,7 +51,7 @@ a{
 
   fieldset{
       width:240px;
-      margin-left:10px;
+      margin-left:5%;
   }
 
 
